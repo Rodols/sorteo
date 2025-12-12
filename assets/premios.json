@@ -1,6 +1,6 @@
 [
-  { "image": "assets/images/hamilton.png","activo":true },
-  { "image": "assets/images/bateriaCocina.png","activo":true },
-  { "image": "assets/images/alexa.png","activo":true },
-  { "image": "assets/images/monitor.png","activo":true }
+  { "image": "assets/images/hamilton.png","activo":true, "pendiente":true },
+  { "image": "assets/images/bateriaCocina.png","activo":true, "pendiente":true},
+  { "image": "assets/images/alexa.png","activo":true ,"pendiente":true},
+  { "image": "assets/images/monitor.png","activo":true, "pendiente":true }
 ]
